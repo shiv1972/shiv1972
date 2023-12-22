@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shiv1972
+- 👋 Hi, I’m Shivam Giri
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding...
 - 💞️ I’m looking to collaborate on several projects...
-- 📫 How to reach me with email ...
+- 📫 How to reach me shiv.giri2002@gmail.com
 
 <!---
 shiv1972/shiv1972 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
