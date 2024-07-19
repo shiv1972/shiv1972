@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivam Giri
-- 👀 I’m interested in coding
+- 👀 I’m interested in Analysis/coding/Problem Solving/Product
 - 🌱 I’m currently learning coding...
-- 💞️ I’m looking to collaborate on several projects...
+- 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me shiv.giri2002@gmail.com
 
 <!---
